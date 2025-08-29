@@ -1,18 +1,22 @@
-# Spotify-dashboard-PowerBI
-📊 Spotify Listening Pattern Analysis using Power BI | Interactive dashboards, insights on albums, artists, tracks &amp; user behavior
+# 🎵 Spotify Data Analysis Dashboard
 
-This project explores Spotify listening data to uncover patterns in how users engage with albums, artists, and tracks over time. Using Power BI, the analysis covers:
+This project analyzes Spotify listening patterns (albums, artists, tracks, and hours) using **Power BI**.  
+It includes insights into user behavior, top albums, listening time, and year-over-year trends.
 
-🎵 Total albums, artists, and tracks played over time
+---
 
-📅 Annual and monthly listening habits (min/max trends)
+## 📂 Project Structure
+- **data/** → Raw dataset (CSV/Excel files)  
+- **dashboard/** → Power BI `.pbix` file  
+- **reports/** → PPT & Word documentation  
+- **images/** → Screenshots of dashboard & visuals  
 
-🏆 Top 5 albums, artists, and tracks by engagement
+---
 
-💥 Weekday vs Weekend listening patterns
+## 📊 Key Insights
+- 📅 **Listening Trends Over Time** – Track how album/artist/track plays evolve yearly  
+- 🏆 **Top 5 Albums/Artists/Tracks** – Most frequently played  
+- 📈 **Year-over-Year Comparison** – Latest vs Previous year analysis  
+- 🕒 **Listening Hours Heatmap** – Peak listening times  
 
-🕒 Hourly heatmaps to identify peak listening times
-
-📈 Year-over-Year growth & comparison (Latest Year vs Previous Year)
-
-The repository includes the Power BI dashboard, raw datasets (CSV), PPT presentation, screenshots, and documentation — making it a complete end-to-end data analysis project.
+---
